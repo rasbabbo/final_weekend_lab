@@ -9,6 +9,9 @@ game.
 
 ## Setup
 
+are there any Mexicans in here?
+
+
 - You should create a Rails app and set up an Angular front-end.
 - Most of the lab will be in Angular, but we want you get used to
   integrating it with Rails.
